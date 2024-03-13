@@ -69,7 +69,7 @@
     }
 
     .background-div {
-        background-color: #ecebe8;
+        background-color: #ebdbac;
         width: 100%;
         height: 56vh;
         margin: -205px auto;
